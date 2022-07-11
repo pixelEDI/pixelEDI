@@ -23,8 +23,8 @@ if(newSmartHomeIdea!=usefull){
 - 👀 Mainly I'm developing on ESP32 but I like all of the Arduinos :)
 - 📫 hello@pixeledi.eu or https://twitter.com/pixeledi
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6CJJV6)
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpixeledi)
 
 <!---
 pixelEDI/pixelEDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
