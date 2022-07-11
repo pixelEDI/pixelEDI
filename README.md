@@ -23,7 +23,6 @@ if(newSmartHomeIdea!=usefull){
 - 👀 Mainly I'm developing on ESP32 but I like all of the Arduinos :)
 - 📫 hello@pixeledi.eu or https://twitter.com/pixeledi
 
-<a href='https://ko-fi.com/pixeledi' target='_blank'><img height='20' style='border:0px;height:30px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Support me on ko-fi' />
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpixeledi)
 
