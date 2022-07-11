@@ -27,7 +27,7 @@ if(newSmartHomeIdea!=usefull){
 
 <a href="https://twitter.com/pixeledi" rel="nofollow"><img src="https://img.shields.io/badge/pixelEDI%20-%231DA1F2.svg?&amp;style=flat-square&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://www.thingiverse.com/pixeledi" rel="nofollow"><img src="https://img.shields.io/badge/-pixelEDI-%23248BFB.svg?&amp;style=flat-square&amp;logo=Thingiverse&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.thingiverse.com/pixeledi" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/-pixelEDI-%23248BFB.svg?&amp;style=flat-square&amp;logo=Thingiverse&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <!---
 pixelEDI/pixelEDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
