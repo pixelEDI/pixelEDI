@@ -25,7 +25,7 @@ if(newSmartHomeIdea!=usefull){
 
 <a href="https://ko-fi.com/H2H6CJJV6" rel="nofollow"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" style="max-width: 100%;"></a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/pixeledi?style=social)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pixeledi?style=social">
 
 <!---
 pixelEDI/pixelEDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
