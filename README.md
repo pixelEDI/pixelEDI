@@ -19,7 +19,7 @@ if(newSmartHomeIdea!=usefull){
 ```
 
 - 👋 Hi, I’m @pixelEDI
-- Online Enthusiast | Dozent & systemic Coach | Arduino Developer
+- Online Enthusiast | Lecturer & systemic Coach | Arduino Developer
 - 👀 Mainly I'm developing on ESP32 but I like all of the Arduinos :)
 
 <a href="https://linktr.ee/pixeledi" rel="nofollow"><img src="https://img.shields.io/badge/-all%20my%20links-%2339E09B.svg?&amp;style=plastic&amp;logo=Linktree&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://twitter.com/pixeledi" rel="nofollow"><img src="https://img.shields.io/badge/pixelEDI%20-%231DA1F2.svg?&amp;style=plastic&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
